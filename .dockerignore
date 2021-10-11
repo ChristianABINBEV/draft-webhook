@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules
+
+# Logs
+*.log
+
+.vscode
+
+# Git dependencies
+.git
+.gitignore
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+#
+.DS_Store
